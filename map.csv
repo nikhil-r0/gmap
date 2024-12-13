@@ -1,0 +1,14 @@
+STOPS
+0,Kempegowda Bus Station
+1,Jayanagar
+2,BTM Layout
+3,Silk Board
+4,Electronic City
+ROUTES
+0,1,5,15
+0,2,8,30
+1,3,7,45
+1,2,7,20
+2,3,8,18
+3,4,5,10
+4,5,9,25
